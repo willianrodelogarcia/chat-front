@@ -5,7 +5,7 @@
   "dependencies": {
     "@babel/runtime": "^7.29.2",
     "@material-ui/core": "^4.12.4",
-    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/jest-dom": "^7.0.1",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.14.0",
